@@ -61,7 +61,7 @@ github.com/AronDias-cloud/1-Projeto.git
 ================
 ----------------
 
-E estou aprendendo lógica de programação com Python atualmente!
+E estou aprendendo lógica de programação com Python!
 
 Python para mim é bom quando falamos sobre facilidade em entender como a lógica funciona, principalmente com o Prof. Guanabara, Além de que eu quero caminhar para Análise de Dados e, se eu gostar, irei seguir para Ciências de Dados aonde vou me aprofundar mais ainda usando Python, criando API´s, automações, cuidando de IA´s + banco de dados pra tanto prever como organiza-las usando dashboards (POWER BI e EXCEL).
 
