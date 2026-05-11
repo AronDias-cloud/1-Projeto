@@ -3,6 +3,7 @@ import random as rd
 import emoji
 import moviepy as mpy
 import pygame as pg
+
 '''
 # Exercício 1: Analisando os tipos primitivos
 a = (input('Digite alguma coisa: '))
