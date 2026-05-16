@@ -16,7 +16,6 @@ TÉCNICO DE INFORMÁTICA E ACADÊMICO DE CIÊNCIA DA COMPUTAÇÃO
 aronhdcpti@gmail.com
 (81) 98368-5310
 linkedin.com/in/aron-hamed
-Av. São Paulo, 250 - Curado III, Jaboatão dos Guararapes - PE
 github.com/AronDias-cloud/1-Projeto.git
 
 
